@@ -1,2 +1,3 @@
 # Deep-Dream-Needle
+Throughout CMU's 10-714 course, Deep Learning Systems: Aglorthims and Implementations, we built a deep learning framework called Needle. Needle closesly follows Pytorch's implementation. Instructors provided a code base and through each homework we implemented different elements such as forward/backward computations for various operations, auto differentiation, network modules, optimizers, and data classes.
  Implementing the DeepDream concept in the deep learning framework Needle which was built throughout CMU's 10-714 course. Deep Dream involves taking a pretrained image classification model and performing gradient ascent on an input image so that it maximally activates a particular hidden layer (or group of layers) in the model.
