@@ -1,8 +1,8 @@
 # Deep Dream in Needle
 
 ## Contents
-10714-needle-deepdream - a folder containing the source code to support Needle with most of the interesting code being located within python/needle <br>
-WalkThrough.ipynb - a notebook which provides a walk through of the final project implementing deep dream in Needle
+**10714-needle-deepdream **- a folder containing the source code to support Needle with most of the interesting code being located within python/needle <br>
+**WalkThrough.ipynb** - a notebook which provides a walk through of the final project implementing deep dream in Needle
 
 Throughout CMU's 10-714 course, Deep Learning Systems: Aglorthims and Implementations, we built a deep learning framework called Needle. Needle closesly follows Pytorch's implementation. Instructors provided a code base and through each homework we implemented different elements such as forward/backward computations for various operations, auto differentiation, network modules, optimizers, data, and backend NDarray classes. <br>
 
